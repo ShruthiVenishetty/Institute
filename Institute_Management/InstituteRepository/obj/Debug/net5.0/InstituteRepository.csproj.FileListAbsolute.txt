@@ -1,0 +1,15 @@
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\bin\Debug\net5.0\InstituteRepository.deps.json
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\bin\Debug\net5.0\InstituteRepository.runtimeconfig.json
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\bin\Debug\net5.0\InstituteRepository.runtimeconfig.dev.json
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\bin\Debug\net5.0\InstituteRepository.dll
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\bin\Debug\net5.0\ref\InstituteRepository.dll
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\bin\Debug\net5.0\InstituteRepository.pdb
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\obj\Debug\net5.0\InstituteRepository.csprojAssemblyReference.cache
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\obj\Debug\net5.0\InstituteRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\obj\Debug\net5.0\InstituteRepository.AssemblyInfoInputs.cache
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\obj\Debug\net5.0\InstituteRepository.AssemblyInfo.cs
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\obj\Debug\net5.0\InstituteRepository.csproj.CoreCompileInputs.cache
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\obj\Debug\net5.0\InstituteRepository.dll
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\obj\Debug\net5.0\ref\InstituteRepository.dll
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\obj\Debug\net5.0\InstituteRepository.pdb
+C:\Users\899178\OneDrive - Cognizant\Documents\Desktop\Nikhil\Institute_Management\Institute_Management\InstituteRepository\obj\Debug\net5.0\InstituteRepository.genruntimeconfig.cache
